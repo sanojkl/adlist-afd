@@ -1,0 +1,25 @@
+#0.0.0.0 domain
+
+#bundesweit
+0.0.0.0 afd.de
+
+
+#baden-württemberg
+#bayern
+#berlin
+#brandenburg
+#bremen
+
+#hamburg
+#hessen
+#nordrhein-westfalen
+0.0.0.0 afd-kreis-recklinghausen.de
+0.0.0.0 afd-mettmann.de
+#niedersachsen
+#mecklenburg-vorpommern
+#rheinland-pfalz
+#saarland
+#sachsen
+#sachsen-anhalt
+#schleswig-holstein
+#thüringen
