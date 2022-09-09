@@ -10,6 +10,7 @@
 0.0.0.0 freiburg.afd-bw.de
 0.0.0.0. afd-bw.de
 #bayern
+0.0.0.0 afdbayern.de
 #berlin
 #brandenburg
 #bremen
@@ -17,10 +18,12 @@
 #hamburg
 #hessen
 #nordrhein-westfalen
+0.0.0.0 afd.nrw
 0.0.0.0 afd-kreis-recklinghausen.de
 0.0.0.0 afd-mettmann.de
 #niedersachsen
 #mecklenburg-vorpommern
+0.0.0.0 afd-mv.de
 #rheinland-pfalz
 #saarland
 #sachsen
